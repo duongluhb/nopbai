@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <link rel="stylesheet" href="homeworks.css"> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dương</title>
+</head>
+<body>
+        <H1>Tự Thuật</H1> <br><br>
+        <h2>Profiles<h2>
+    </div>
+    <div>
+            <li>Họ và Tên : Vũ Tùng Dương</li>
+            <li>Sinh ngày : 01/10/1997</li>
+            <li>Quê quán : Hòa Bình</li>
+            <li>Giới tính : Nam</li>
+            <li>Quan tâm : Nữ</li>
+            <li>Slogan : Nam nữ quan trọng gì , ... à mà thôi :3</li>
+
+            <img src="homeworks.jpg" alt="đây là ảnh" width="200px">        
+    </div>
+    <div>
+        <h3>Sở thích</h3>
+        <li>Nghe nhạc</li>
+        <li>Cà phê</li>
+        <li>Thủy Sinh , Động Vật</li>
+        <li>Ngắm cảnh</li>
+        <li>Fc Barcelona</li>
+    </div>
+    <div>
+        <h3>Kỹ Năng</h3>
+        <li>Fullstack Barista</li>
+        <li>Fullstack Cashier</li>
+        <li>Brozen Rank TFT <img src="matcuoi.jpg" alt="" width="20px" > </li>
+    </div>
+    <div>
+        <h3>Education</h3>
+        <li><a href="https://mindx.edu.vn/">Mindx School</a></li>
+    </div>
+    <div>
+        <h3>Thông tin liên lạc</h3>
+    <a href="facebook.com/kennynoy9x" target="_blank"><img src="4701482.png" width="40px" /></a>
+    <a href="https://www.instagram.com/vudu.lu/" target="_blank"> <img src="insta,png.webp" width="40px"> </a>
+    <hr><hr>
+    <h2>Liên hệ mua hàng</h2>
+    <table border="1">
+        <tr>
+            <th colspan="4">Món</th>
+        </tr>
+        <tr>
+            <td>Trà Đào Cam Xả</td>
+            <td>55k</td>
+            <td>65k</td>
+            <td>
+            <img src="tdcs.jpg" alt="" width="200px" >
+            </td>
+        </tr>
+        <tr>
+            <td>Bạc sỉu</td>
+            <td>39k</td>
+            <td>45k</td>
+            <td>
+            <img src="bs.jpg" alt="ảnh" width="200px">
+            </td>
+        </tr>
+        <tr>
+            <td>Trà Xanh latte</td>
+            <td>45k</td>
+            <td>55k</td>
+            <td>
+            <img src="txlatte.jpg" alt="ảnh" width="200px">
+            </td>
+        </tr>
+    </table>
+    <form>
+        <label>Your mail</label>    
+        <input type="Mail " width="50px"> <br>
+        <label>Tên của bạn</label>
+        <input type="tên" width="50px"> <br>
+        <label>Hàng cần mua</label> <br>
+        <textarea name="Vấn đề" id="vấn đề" cols="20" rows="5"></textarea><br>
+        <input type="reset">
+        <input type="submit">
+    </form>
+    </div>
+</body>
+</html>
